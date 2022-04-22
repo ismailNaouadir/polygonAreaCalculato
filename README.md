@@ -1,2 +1,0 @@
-# polygonAreaCalculato
-see README.md
